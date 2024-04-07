@@ -4,7 +4,7 @@ import dotenv from "dotenv";
 import cookieParser from "cookie-parser";
 import cors from "cors";
 import authroute from "./Route/auth.js";
-import userroute from "./Route/User.js";
+import userroute from "./Route/user.js";
 import postroute from "./Route/post.js";
 import comentroute from "./Route/comment.js";
 
